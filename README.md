@@ -1,7 +1,9 @@
 #Alarm Clockino
+
 A simple alarm clock/timer for the Arduino.
 
 #Skills Demonstrated
+
 • Character Parsing through Serial Input
 • Timer
 
