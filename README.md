@@ -10,6 +10,7 @@ A simple alarm clock/timer for the Arduino.
 
 
 #Equipment:
+
 • Arduino Uno
 
 • 4-digit 7-Segment Display
