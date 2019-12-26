@@ -1,15 +1,15 @@
-## AlarmClockino
+# Clock
 
-A simple timer for the Arduino with the Adafruit 7-segment Display. 
+A simple clock for the Arduino with the Adafruit 7-segment Display. 
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 • Character Parsing through Serial Input
 
 • Timer
 
 
-# Equipment:
+## Equipment:
 
 • Arduino Uno
 
