@@ -1,6 +1,7 @@
-# Clock
+# Alarm Clock
 
 A simple clock for the Arduino with the Adafruit 7-segment Display. 
+To set the clock, enter 8 numbers into the Arduino serial monitor. The first 4 sets the time, the second sets the alarm.
 
 ## Skills Demonstrated
 
